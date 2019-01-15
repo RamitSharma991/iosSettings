@@ -14,7 +14,6 @@ class MasterViewController: UITableViewController {
     var detailViewController: DetailViewController? = nil
     var objects = [Any]()
 
-    @IBOutlet weak var icoImg: UIImageView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
