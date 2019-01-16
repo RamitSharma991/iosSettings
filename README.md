@@ -10,7 +10,7 @@ Every asset and resource used in this app is for educational purpose.
 
 
 ### Screenshots
-![](https://github.com/RamitSharma991/iosSettings/blob/master/7.png) ![](https://github.com/RamitSharma991/iosSettings/blob/master/6.png)
+![](https://github.com/RamitSharma991/iosSettings/blob/master/7.png)                                                           ![](https://github.com/RamitSharma991/iosSettings/blob/master/6.png)
 
 
 ![](https://github.com/RamitSharma991/iosSettings/blob/master/1.png)
